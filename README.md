@@ -5,14 +5,6 @@
 ### READ DRAGON CYBER SECURITY
 🔴 RDCS — READ DRAGON CYBER SECURITY
 
-<p align="center">
-  <b>PAGE LINK EXTRACTOR</b><br>
-  Lightweight Website Information Gathering Tool
-</p><p align="center">
-  <img src="banner.png" width="100%" alt="RDCS Banner">
-</p><p align="center">
-  ![Platform](
-
 ✨ Features
 
 - 🔗 Page Link Extractor
