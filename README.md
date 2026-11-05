@@ -11,17 +11,7 @@
 </p><p align="center">
   <img src="banner.png" width="100%" alt="RDCS Banner">
 </p><p align="center">
-  ![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-black)
-  ![Language](https://img.shields.io/badge/Language-Bash-red)
-  ![API](https://img.shields.io/badge/API-HackerTarget-blue)
-  ![Version](https://img.shields.io/badge/Version-1.0-green)
-</p>---
-
-⚡ About RDCS
-
-RDCS (READ DRAGON CYBER SECURITY) is a lightweight Bash-based website information gathering tool designed for Termux and Linux environments.
-
-It provides a simple interface to retrieve page links from websites using the HackerTarget API.
+  ![Platform](
 
 ✨ Features
 
